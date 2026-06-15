@@ -1,13 +1,21 @@
 {
   "name": "research-writing",
-  "description": "A growing collection of Claude-compatible academic workflow bundles. Covers scientific figures, manuscript writing and polishing, reviewer assessment, citation retrieval, data availability, paper reading, literature search, response letters, paper-to-PPTX conversion, and evidence-grounded Chinese invention patent drafting. Rules are organized as reusable skill folders with explicit workflows and quality checks.",
+  "description": "Academic research writing suite combining ARS (deep-research, academic-paper, academic-paper-reviewer, experiment-agent, literature-search) with Nature-Skills (polishing, review, figures, response, paper2ppt). WOS + CNKI literature search with journal-list filtering and Excel export.",
   "version": "1.0.0",
   "author": {
-    "name": "Yuan1z0825",
+    "name": "open-source",
     "email": ""
   },
   "license": "MIT",
-  "homepage": "https://github.com/Yuan1z0825/nature-skills",
-  "repository": "https://github.com/Yuan1z0825/nature-skills",
-  "keywords": ["nature", "academic", "science", "figure", "writing", "citation", "publication"]
+  "homepage": "https://github.com/GrLime909/research-skill",
+  "repository": "https://github.com/GrLime909/research-skill",
+  "keywords": [
+    "academic-writing",
+    "research",
+    "peer-review",
+    "literature-search",
+    "CNKI",
+    "WOS",
+    "scientific-writing"
+  ]
 }

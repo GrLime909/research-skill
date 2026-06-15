@@ -1,20 +1,30 @@
 {
   "name": "research-writing",
   "version": "1.0.0",
-  "description": "Academic workflow bundles for scientific writing, figures, citations, paper reading, literature search, response letters, presentations, and Chinese invention patent drafting",
+  "description": "Academic research writing suite combining ARS (deep-research, academic-paper, academic-paper-reviewer, experiment-agent, literature-search) with Nature-Skills (polishing, review, figures, response, paper2ppt). WOS + CNKI literature search with journal-list filtering and Excel export.",
   "owner": {
-    "name": "Yuan1z0825"
+    "name": "open-source",
+    "email": ""
   },
   "plugins": [
     {
       "name": "research-writing",
       "version": "1.0.0",
       "source": "./",
-      "description": "A growing collection of Claude-compatible academic workflow bundles, including figures, manuscript writing and polishing, reviewer assessment, citation retrieval, data availability, paper reading, literature search, response letters, paper-to-presentation workflows, and evidence-grounded Chinese invention patent drafting.",
+      "description": "Academic research writing suite combining ARS (deep-research, academic-paper, academic-paper-reviewer, experiment-agent, literature-search) with Nature-Skills (polishing, review, figures, response, paper2ppt). WOS + CNKI literature search with journal-list filtering and Excel export.",
       "author": {
-        "name": "Yuan1z0825"
+        "name": "open-source",
+        "email": ""
       },
-      "keywords": ["research", "academic", "science", "figure", "writing", "citation", "publication"],
+      "keywords": [
+        "academic-writing",
+        "research",
+        "peer-review",
+        "literature-search",
+        "CNKI",
+        "WOS",
+        "scientific-writing"
+      ],
       "category": "academic"
     }
   ]
