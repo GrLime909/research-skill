@@ -294,6 +294,7 @@ references_codex_backup_YYYYMMDD.bib
 | ------------------------------------ | ------------------------------------------------------------------------------- |
 | `zotero-cli config` 显示非本地模式 | 停止任务，提示用户切回`ZOTERO_LOCAL=true`；不要自行改配置，也不要改用 Web API |
 | 不按照预期执行                | 严格按照skill要求和模板来生成笔记文件                                                 |
+| 文件的theme不准确                | 需要与1.1 🌱总结中的内容相同，只是不需要贡献列表的内容                                                 |
 | 文件标题不确定                | 最终生成文件的文件名与文章的 {{title}} 一致                                                 |
 | `zotero-cli library list` 读不到库 | 提示用户确认 Zotero 数据路径和本地库配置                                        |
 | 语义搜索报 Chroma/HNSW 错误          | 不使用`search --mode semantic`，改用标题、作者、collection 检索               |
